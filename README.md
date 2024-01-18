@@ -1,5 +1,7 @@
-# Snack Expo (MERN)
+# Pertemuan 7 bagian database expo mern 
 
-FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
+Dhafin Alfaruqi
+203510490 
+
+
  
